@@ -1,4 +1,5 @@
 # Python bytecode and caches
+/_pycache/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -45,5 +46,8 @@ htmlcov/
 Thumbs.db
 desktop.ini
 
-# JSON files
-config.json
+configs.json
+library/
+data/
+user_profile.json
+prompt.json

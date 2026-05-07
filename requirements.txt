@@ -1,0 +1,7 @@
+langchain-ollama
+langchain-core
+langchain-community
+langchain-text-splitters
+chromadb
+docling
+tavily-python
